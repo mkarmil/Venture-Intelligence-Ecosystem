@@ -1,6 +1,6 @@
-# Venture Intelligence Ecosystem
+# Venture Intelligence Ecosystem (VIE)
 
-## From Subscription to Venture Intelligence
+### From Subscription to Venture Intelligence
 
 ### A New Economic and Production Model for AI Platforms
 
@@ -12,7 +12,7 @@ Some users consume.
 
 Some users build.
 
-Some create products, patents, startups, and scalable systems.
+Some create products, patents, startups, and long-term economic value.
 
 This whitepaper proposes a new economic layer:
 
@@ -36,7 +36,7 @@ Not all AI usage creates equal long-term value.
 
 Some usage creates entertainment.
 
-Some usage creates economic infrastructure.
+Some usage creates products, patents, startups, and long-term economic value.
 
 Current AI business models monetize both almost equally.
 
@@ -106,4 +106,4 @@ This document is a strategic ecosystem proposal.
 
 It is not a demand, complaint, or ownership claim over future implementations.
 
-It is an open conceptual contribution for the future evolution of AI-native innovation systems.
+It is an open conceptual contribution toward the future evolution of AI-native innovation systems.
